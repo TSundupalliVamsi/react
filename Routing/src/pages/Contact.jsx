@@ -8,7 +8,7 @@ const Contact = () => {
                 <p className="lead">
                     We'd love to hear from you. Reach out to us anytime.
                 </p>
-                <button className="btn btn-outline-light btn-lg">
+                <button className="btn btn-outline-dark">
                     Get in Touch
                 </button>
             </div>

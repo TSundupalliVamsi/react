@@ -10,7 +10,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      <nav className="navbar navbar-expand-lg bg-grey">
+      <nav className="navbar navbar-expand-lg bg-body-secondary">
         <div className="container-fluid">
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
